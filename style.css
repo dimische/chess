@@ -1,0 +1,44 @@
+.black{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(117, 85, 34);
+}
+.white{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(197, 179, 152);
+}
+.abcd{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+.chesspole{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-bottom: 0px;
+    margin-bottom: -2px;
+}
+.chesspole2{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    margin-top: -1px;
+}
+.number{
+    float: left;
+    font-size: 20px;
+    line-height: 53px;
+    margin-right: 10px;
+    
+}
+.num{
+    display: flex;
+    flex-direction: column;
+}
+.alphavit{
+    margin-left: 22px;
+}
+
